@@ -1,0 +1,7 @@
+{
+  "name": "McDonald's High-Convert Web Experience",
+  "description": "A premium, AI-powered McDonald's web application featuring a dynamic menu, smart recommendations, and high-conversion design patterns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
